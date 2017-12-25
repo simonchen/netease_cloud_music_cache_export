@@ -33,6 +33,8 @@ The destination folder where you want to export music files.
 
 <hr/>
 
+![](netease_cloud_music_cache_export.png)
+
 这个实用工具可以帮助你轻松转出缓存的网易云音乐文件，转出的网易云音乐文件名将被自动重命名为原歌曲名.mp3
 可执行文件被打包在dist文件夹中，简单执行命令行转出缓存的MP3音乐文件:
 
