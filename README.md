@@ -19,7 +19,7 @@ Type below command line in console (before you should make sure that you install
 
 **[cache_folder]**
 It's the source folder where Netease Cloud Music store cahced music files, usually, it's the folder at 
-*C:\Users\{user name}\AppData\Local\Netease\CloudMusic\Cache\Cache
+*C:\Users\{user name}\AppData\Local\Netease\CloudMusic\Cache\Cache*
 
 **[output_folder]**
 The destination folder where you want to export music files.
@@ -27,7 +27,7 @@ The destination folder where you want to export music files.
 - Executeable file
 
 *cd dist
-*netease_cloud_music_cache_export.exe [cache folder] [output_folder]\
+*netease_cloud_music_cache_export.exe [cache folder] [output_folder]*
 
 <hr/>
 
@@ -36,11 +36,11 @@ The destination folder where you want to export music files.
 
 - Python 脚本
 
-*python netease_cloud_music_cache_export.py [cache folder] [output_folder]
+*python netease_cloud_music_cache_export.py [cache folder] [output_folder]*
 
 **[cache_folder]**
 网易云音乐会存储缓冲的MP3音乐文件在这个目录里：
-*C:\Users\{user name}\AppData\Local\Netease\CloudMusic\Cache\Cache
+*C:\Users\{user name}\AppData\Local\Netease\CloudMusic\Cache\Cache*
 
 **[output_folder]**
 目标转出文件夹
@@ -48,4 +48,4 @@ The destination folder where you want to export music files.
 - 可执行文件
 
 *cd dist
-*netease_cloud_music_cache_export.exe [cache folder] [output_folder]
+*netease_cloud_music_cache_export.exe [cache folder] [output_folder]*
