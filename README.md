@@ -27,7 +27,7 @@ The destination folder where you want to export music files.
 
 - Executeable file
 
-*cd dist
+*cd dist*
 *netease_cloud_music_cache_export.exe [cache folder] [output_folder]*
 
 <hr/>
@@ -48,5 +48,5 @@ The destination folder where you want to export music files.
 
 - 可执行文件
 
-*cd dist
+*cd dist*
 *netease_cloud_music_cache_export.exe [cache folder] [output_folder]*
