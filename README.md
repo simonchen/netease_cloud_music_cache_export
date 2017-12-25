@@ -19,6 +19,7 @@ Type below command line in console (before you should make sure that you install
 
 **[cache_folder]**
 It's the source folder where Netease Cloud Music store cahced music files, usually, it's the folder at 
+
 *C:\Users\{user name}\AppData\Local\Netease\CloudMusic\Cache\Cache*
 
 **[output_folder]**
