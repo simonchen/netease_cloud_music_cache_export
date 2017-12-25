@@ -25,7 +25,7 @@ It's the source folder where Netease Cloud Music store cahced music files, usual
 **[output_folder]**
 The destination folder where you want to export music files.
 
-- Executeable file
+- Executable file
 
 *cd dist*
 
