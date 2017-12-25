@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os, sys, shutil
+import os, sys, shutil, re
 
 def trip_space(s):
 
@@ -108,6 +108,7 @@ if __name__ == '__main__':
         mp3 = MP3(src_path)
         if mp3.is_valid():
             title = mp3.title()
-            dest_path = os.path.join(output_dir, title+'.mp3')
+            title_repl = re.sub('[\\\/\:\*\?"<>|]', '_', title)
+            dest_path = os.path.join(output_dir, title_repl+'.mp3')
             _print(src_path, '>>', dest_path)
             shutil.copy(src_path, dest_path)
