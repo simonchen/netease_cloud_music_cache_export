@@ -6,7 +6,7 @@ Those exported music files will be renamed automaically as original song name.
 The source codes is writted by [Python](http://python.org), idealy, it can be running on any platform that you installed Python.
 Especially, I've packaged a windows executalbe file in dist folder, therfore, you can directly peform the exe file without installing Python.
 
-## Comiple executable file on Windows
+## Compile executable file on Windows
 Type below command line in console (before you should make sure that you installed [Py2exe](https://pypi.python.org/pypi/py2exe) module for the specific version of Python)
 
 *Python setup.py py2exe*
